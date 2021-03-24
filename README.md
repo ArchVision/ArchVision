@@ -24,7 +24,7 @@
 [<img align="left" alt="JakeFSF11 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 #### Stuff I use!
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Python Badge]https://img.shields.io/badge/-Python-ebeb09?style=for-the-badge&labelColor=black&logo=python&logoColor=2b9c27](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-ebeb09?style=for-the-badge&labelColor=black&logo=python&logoColor=2b9c27)](#) 
 
 
 ### 📺 Latest YouTube Videos
