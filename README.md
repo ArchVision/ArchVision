@@ -11,7 +11,10 @@
 
 ### Spotify Playing 🎧
 
-### Im working on coding this.....
+### Im working on coding this....
+
+### Contact Me!
+* Join my [discord](https://discord.gg/HnHU6SNv69) To chat with me!
 
 #### GitHub Stats:
 ![ArchVision's github stats](https://github-readme-stats.vercel.app/api?username=ArchVision&count_private=true&theme=tokyonight&hide=contribs,prs)
