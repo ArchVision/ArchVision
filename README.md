@@ -21,7 +21,7 @@
 
 ### Top Langauges
 
-![Top Langauges](https://github-readme-stats.vercel.app/api?username=ArchVision&count_private=true&show_icons=true&theme=radical)
+![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchVision&show_icons=true&theme=radical)
 
 
 #### Stuff I use!
