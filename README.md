@@ -25,7 +25,7 @@
 
 
 #### Stuff I use!
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-ebeb09?style=for-the-badge&labelColor=black&logo=python&logoColor=2b9c27)](#) [![C++ Badge](https://img.shields.io/badge/-c++-2b3e59?style=for-the-badge&labelColor=black&logo=C#&logoColor=2b3e59)](#) [![Java Badge](https://img.shields.io/badge/-JAVA-852841?style=for-the-badge&labelColor=white&logo=Java&logoColor=2b3e59)](#) [![Linux Badge](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&labelColor=white&logo=Linux&logoColor=e8e405)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-ebeb09?style=for-the-badge&labelColor=black&logo=python&logoColor=2b9c27)](#) [![C++ Badge](https://img.shields.io/badge/-c++-2b3e59?style=for-the-badge&labelColor=black&logo=C#&logoColor=2b3e59)](#) [![Java Badge](https://img.shields.io/badge/-JAVA-852841?style=for-the-badge&labelColor=white&logo=Java&logoColor=2b3e59)](#) [![Linux Badge](https://img.shields.io/badge/-Linux-ffffff?style=for-the-badge&labelColor=white&logo=Linux&logoColor=000000)](#)
 
 
 ### 📺 Latest YouTube Videos
