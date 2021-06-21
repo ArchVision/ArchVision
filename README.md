@@ -56,5 +56,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ArchVision.ArchVision)
 
 
-[twitter]: https://twitter.com/JakeFSF11
+[twitter]: https://twitter.com/ilyDimension
 [youtube]: https://www.youtube.com/channel/UCHQJP1PkuS15rm46uvVGoJg
