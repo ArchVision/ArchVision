@@ -4,10 +4,10 @@
 
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work with other people on projects, only when I am in the mood! 😇
-- 🥅 2021 Goals: Continue to learn a lot more about each language
-- ⚡ Fun fact: I love to sit on discord, and well, do nothing, lol.
+- 🌱 Trying to learn rn 🤣
+- 👯 Neovim is the hardest workspace to set up bro 😇
+- 🥅 2023 Goals: Continue to learn a lot more about each language
+- ⚡ Fun fact: Im boring
 
 ### Spotify Playing 🎧
 
